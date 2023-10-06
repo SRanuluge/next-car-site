@@ -1,4 +1,4 @@
-# Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+# Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS ,HeadlessUi
 
 - Used Next.js 13 App Router and Server Side Rendering
 - Implemented Advanced Search Functionality
